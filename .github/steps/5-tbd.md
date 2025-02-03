@@ -1,17 +1,10 @@
-<!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
-  TBD-step-5-notes.
--->
+# Step 5: Finish
 
-## Step 5: TBD-step-5-name
+Congratulations! You have completed all the steps to set up a CI/CD pipeline using GitHub Actions.
 
-_Almost there TBD-step-4-name! :heart:_
+You now know how to:
+- Set up unit tests.
+- Automate the build and deployment process.
+- Integrate notifications for failures.
 
-TBD-step-5-information
-
-### :keyboard: Activity: TBD-step-5-name
-
-1. TBD-step-5-instructions.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+Feel free to experiment further!
